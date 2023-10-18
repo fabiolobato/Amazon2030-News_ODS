@@ -12,7 +12,7 @@ The Amazon is the largest tropical forest in the world, with great importance fo
   <tr>
     <td align="center">
       <a href="http://lattes.cnpq.br/8316643293931169">
-        <img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K1183400Z3" width="100px;" alt="Foto do John"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88400274?v=4" width="100px;" alt="Foto do John"/><br>
         <sub>
           <b>Jonathan Oliveira Fernandez</b>
         </sub>
