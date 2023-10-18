@@ -7,7 +7,7 @@ The Amazon is the largest tropical forest in the world, with great importance fo
 1. [Dictionary](/dictionary/DictODS_UoA_portuguese.ipynb): SDG Dictionary.
 2. [Results](/Results): Folder containing the analysis results.
 
-## Authors <!-- Jonathan Oliveira Fernandez, Gabriele de S. Araújo, Marcelino S. da Silva, Fábio M.F. Lobato -->
+## Authors <!-- Jonathan O. Fernandez, Gabriele de S. Araújo, Marcelino S. da Silva, Fábio M.F. Lobato -->
 <table>
   <tr>
     <td align="center">
